@@ -1,0 +1,11 @@
+{
+    "macros": ["DEBUG=1", "VERSION=\"0.2.3_SNAPSHOT\""
+    ],
+	"target_overrides": {
+        "*": {
+            "target.device_has_add": [],
+            "platform.stdio-baud-rate": 115200,
+            "platform.stdio-convert-newlines": true
+        }
+    }
+}
