@@ -1,6 +1,6 @@
-# NbIoT Tag 12 prototype
+# NbIoT prototype
 
-The firmware for a prototype tag12 (nucleo board NUCLEO-F103RB and AVNET NBIOT-BG96-SHIELD)
+The firmware for a simple device (nucleo board NUCLEO-F103RB and AVNET NBIOT-BG96-SHIELD)
 
 ## SW Prerequisities
 - mbed cli - see https://os.mbed.com/docs/mbed-os/v5.11/tools/developing-mbed-cli.html
